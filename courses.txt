@@ -1,0 +1,4 @@
+Courses for Ольга Попова (ID: 107):
+  - Java Programming
+  - Database Systems
+  - Algorithms and Data Structures
